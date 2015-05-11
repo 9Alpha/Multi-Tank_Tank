@@ -21,6 +21,7 @@ int whatToDo = 0;
 
 
 void setup() {
+  println("Now on GitHub!");
   size(300, 600);
   w=width;
   h=height;
